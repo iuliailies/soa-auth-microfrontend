@@ -13,7 +13,7 @@ const Container = styled.div`
 
 const Input = styled.input`
   display: block;
-  width: 100%;
+  width: calc(100% - 20px);
   margin: 10px 0;
   padding: 10px;
   border: 1px solid #ddd;
